@@ -3252,6 +3252,10 @@ ul.orderlist li {
 	font-size: 48px;
 } */
 	 
+.custom-navbar .nav li a, .custom-navbar .nav li .calltxt {
+	color: antiquewhite;
+}
+	 
 .stcontent {
 	padding: 0 25px;
 }
