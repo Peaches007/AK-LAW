@@ -3271,14 +3271,17 @@ ul.orderlist li {
 .footer-lwf .footer-logo img {
 	width: 30%;
 }
-	 
-.navbar-brand img {
-	top: -30%;
-}
-	 
+	 	 
 .navbar-header {
 	text-align: left;
+	postion: relative;
 }
+	 
+.navbar-brand img {
+	postion: absolute;
+	top: -40%;
+}
+	 
 .custom-navbar {
 	border-bottom: 0;
 	padding-bottom: 0;
