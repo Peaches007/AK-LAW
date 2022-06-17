@@ -3259,6 +3259,10 @@ h1 {
 
 
  @media (max-width: 767px) {
+.footer-lwf .footer-logo img {
+	width: 20%;
+}
+	 
 .navbar-brand img {
 	top: -30%;
 }
