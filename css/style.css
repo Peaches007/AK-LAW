@@ -3259,6 +3259,10 @@ h1 {
 
 
  @media (max-width: 767px) {
+.navbar-brand img {
+	top: -30%;
+}
+	 
 .navbar-header {
 	text-align: left;
 }
