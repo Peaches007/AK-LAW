@@ -3251,6 +3251,11 @@ ul.orderlist li {
 /* h1 {
 	font-size: 48px;
 } */
+	 
+.stcontent {
+	padding: 0 50px;
+}
+
 #counter .counter-item {
 	margin-top: 28px;
 	margin-bottom: 28px;
