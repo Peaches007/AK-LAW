@@ -3358,6 +3358,10 @@ h3 {
 .slide-text h3 {
 	font-size: 2rem;
 }
+	 
+.stcontent {
+    padding: 0;
+}
 }
 
 
