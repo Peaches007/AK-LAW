@@ -806,7 +806,7 @@ img.whtlogo{display:block;} */
 .navbar-brand img {
 	z-index: 1;
 	position: absolute;
-	top: -10%;
+	top: -25%;
 }
 
 
@@ -3138,6 +3138,11 @@ blockquote:after {
 .navbar-right {
 	margin-top: 10px;
 }
+
+.navbar .nav .last-num {
+	display: none;
+}
+
 .stcontent, .fullimg {
 	float: none;
 	width: auto;
@@ -3193,6 +3198,11 @@ h1 {
 	float: none;
 	display: inline-block;
 }
+
+.navbar-brand img {
+	top: -15%;
+}
+
 .custom-navbar {
 	border-bottom: 1px solid rgba(255,255,255,0.3);
 	padding-bottom: 30px;
@@ -3254,7 +3264,6 @@ ul.orderlist li {
 	font-size: 48px;
 } */
 	 
-	 
 .stcontent {
 	padding: 0 25px;
 }
@@ -3272,21 +3281,25 @@ ul.orderlist li {
 	color: antiquewhite;
 }
 
+.navbar .nav .last-num {
+	display: block;
+}
+
+.navbar-brand img {
+    top: -60%;
+}
+
 .slide-text h1 {
 	margin-top: -20%;
 }
 
 .footer-lwf .footer-logo img {
-	width: 30%;
+	width: 40%;
 }
 	 	 
 .navbar-header {
 	text-align: left;
 	position: relative;
-}
-	 
-.navbar-brand img {
-	top: -40%;
 }
 	 
 .custom-navbar {
