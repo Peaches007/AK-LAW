@@ -781,14 +781,14 @@ img.whtlogo{display:block;} */
 .subpage .custom-navbar {
 	background:#fff;
 }
-.subpage .custom-navbar .nav li a {
+/* .subpage .custom-navbar .nav li a {
 	color:#666;
-}
+} */
 .subpage .custom-navbar .navbar-brand {
 	color:red;
 }
 .subpage .custom-navbar .nav li .calltxt {
-	color:#666; 
+	/* color:#666;  */
 	border-left-color:#ddd;
 }
 
@@ -3286,7 +3286,8 @@ ul.orderlist li {
 }
 
 .navbar-brand img {
-    top: -60%;
+	width: 100px;
+	top: -40%;
 }
 
 .slide-text h1 {

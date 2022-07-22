@@ -7,7 +7,7 @@
 
 
     /*==== Nav ====*/
-    $('.navbar-collapse a').on('click',function(){
+    $('.navbar-collapse .dropdown-menu a').on('click',function(){
     	$(".navbar-collapse").collapse('hide');
     });	
     
